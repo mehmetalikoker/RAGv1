@@ -1,5 +1,6 @@
 # RAGv1 Project
  It is a RAG project developed using Langchain.
+
 for rag.py
 1. Pulling data from web source or documents
 2. Data to be used is divided into small pieces for each use.
